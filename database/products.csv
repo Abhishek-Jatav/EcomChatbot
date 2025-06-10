@@ -1,11 +1,101 @@
 id,name,brand,category,price,description,image_url
-1,Nike Revolution 6,Nike,Running Shoes,2999,Lightweight and durable for everyday runs,https://via.placeholder.com/150
-2,Adidas Duramo SL,Adidas,Running Shoes,3199,Breathable mesh and soft cushioning,https://via.placeholder.com/150
-3,Puma Flyer Runner,Puma,Running Shoes,2899,Speed-inspired lightweight design,https://via.placeholder.com/150
-4,Skechers Go Run Fast,Skechers,Running Shoes,3499,Responsive cushioning and slip-on style,https://via.placeholder.com/150
-5,Campus Oxyfit,Campus,Casual Shoes,1899,Foam comfort for everyday use,https://via.placeholder.com/150
-6,Bata Power Trek,Bata,Trekking Shoes,2499,Designed for stability and grip,https://via.placeholder.com/150
-7,Woodland Trail Wolf,Woodland,Hiking Boots,4299,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
-8,Sparx Running Pro,Sparx,Running Shoes,2099,Good grip and shock absorption,https://via.placeholder.com/150
-9,Reebok ZQuick Dash,Reebok,Running Shoes,3699,Low-cut design for agility,https://via.placeholder.com/150
-10,Red Tape Sports Sneakers,Red Tape,Sneakers,2199,Sporty look with breathable upper,https://via.placeholder.com/150
+1,Adidas Sneakers Model 1,Adidas,Sneakers,1517,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+2,Puma Casual Shoes Model 2,Puma,Casual Shoes,1534,Sporty look and comfortable fit,https://via.placeholder.com/150
+3,Reebok Trekking Shoes Model 3,Reebok,Trekking Shoes,1551,Designed for stability and grip,https://via.placeholder.com/150
+4,Skechers Hiking Boots Model 4,Skechers,Hiking Boots,1568,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
+5,Bata Loafers Model 5,Bata,Loafers,1585,Comfortable everyday slip-ons,https://via.placeholder.com/150
+6,Woodland Formal Shoes Model 6,Woodland,Formal Shoes,1602,Elegant and stylish for office wear,https://via.placeholder.com/150
+7,Campus Running Shoes Model 7,Campus,Running Shoes,1619,Lightweight and durable for everyday use,https://via.placeholder.com/150
+8,Red Tape Sneakers Model 8,Red Tape,Sneakers,1636,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+9,Sparx Casual Shoes Model 9,Sparx,Casual Shoes,1653,Sporty look and comfortable fit,https://via.placeholder.com/150
+10,Nike Trekking Shoes Model 10,Nike,Trekking Shoes,1670,Designed for stability and grip,https://via.placeholder.com/150
+11,Adidas Hiking Boots Model 11,Adidas,Hiking Boots,1687,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
+12,Puma Loafers Model 12,Puma,Loafers,1704,Comfortable everyday slip-ons,https://via.placeholder.com/150
+13,Reebok Formal Shoes Model 13,Reebok,Formal Shoes,1721,Elegant and stylish for office wear,https://via.placeholder.com/150
+14,Skechers Running Shoes Model 14,Skechers,Running Shoes,1738,Lightweight and durable for everyday use,https://via.placeholder.com/150
+15,Bata Sneakers Model 15,Bata,Sneakers,1755,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+16,Woodland Casual Shoes Model 16,Woodland,Casual Shoes,1772,Sporty look and comfortable fit,https://via.placeholder.com/150
+17,Campus Trekking Shoes Model 17,Campus,Trekking Shoes,1789,Designed for stability and grip,https://via.placeholder.com/150
+18,Red Tape Hiking Boots Model 18,Red Tape,Hiking Boots,1806,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
+19,Sparx Loafers Model 19,Sparx,Loafers,1823,Comfortable everyday slip-ons,https://via.placeholder.com/150
+20,Nike Formal Shoes Model 20,Nike,Formal Shoes,1840,Elegant and stylish for office wear,https://via.placeholder.com/150
+21,Adidas Running Shoes Model 21,Adidas,Running Shoes,1857,Lightweight and durable for everyday use,https://via.placeholder.com/150
+22,Puma Sneakers Model 22,Puma,Sneakers,1874,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+23,Reebok Casual Shoes Model 23,Reebok,Casual Shoes,1891,Sporty look and comfortable fit,https://via.placeholder.com/150
+24,Skechers Trekking Shoes Model 24,Skechers,Trekking Shoes,1908,Designed for stability and grip,https://via.placeholder.com/150
+25,Bata Hiking Boots Model 25,Bata,Hiking Boots,1925,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
+26,Woodland Loafers Model 26,Woodland,Loafers,1942,Comfortable everyday slip-ons,https://via.placeholder.com/150
+27,Campus Formal Shoes Model 27,Campus,Formal Shoes,1959,Elegant and stylish for office wear,https://via.placeholder.com/150
+28,Red Tape Running Shoes Model 28,Red Tape,Running Shoes,1976,Lightweight and durable for everyday use,https://via.placeholder.com/150
+29,Sparx Sneakers Model 29,Sparx,Sneakers,1993,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+30,Nike Casual Shoes Model 30,Nike,Casual Shoes,2010,Sporty look and comfortable fit,https://via.placeholder.com/150
+31,Adidas Trekking Shoes Model 31,Adidas,Trekking Shoes,2027,Designed for stability and grip,https://via.placeholder.com/150
+32,Puma Hiking Boots Model 32,Puma,Hiking Boots,2044,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
+33,Reebok Loafers Model 33,Reebok,Loafers,2061,Comfortable everyday slip-ons,https://via.placeholder.com/150
+34,Skechers Formal Shoes Model 34,Skechers,Formal Shoes,2078,Elegant and stylish for office wear,https://via.placeholder.com/150
+35,Bata Running Shoes Model 35,Bata,Running Shoes,2095,Lightweight and durable for everyday use,https://via.placeholder.com/150
+36,Woodland Sneakers Model 36,Woodland,Sneakers,2112,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+37,Campus Casual Shoes Model 37,Campus,Casual Shoes,2129,Sporty look and comfortable fit,https://via.placeholder.com/150
+38,Red Tape Trekking Shoes Model 38,Red Tape,Trekking Shoes,2146,Designed for stability and grip,https://via.placeholder.com/150
+39,Sparx Hiking Boots Model 39,Sparx,Hiking Boots,2163,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
+40,Nike Loafers Model 40,Nike,Loafers,2180,Comfortable everyday slip-ons,https://via.placeholder.com/150
+41,Adidas Formal Shoes Model 41,Adidas,Formal Shoes,2197,Elegant and stylish for office wear,https://via.placeholder.com/150
+42,Puma Running Shoes Model 42,Puma,Running Shoes,2214,Lightweight and durable for everyday use,https://via.placeholder.com/150
+43,Reebok Sneakers Model 43,Reebok,Sneakers,2231,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+44,Skechers Casual Shoes Model 44,Skechers,Casual Shoes,2248,Sporty look and comfortable fit,https://via.placeholder.com/150
+45,Bata Trekking Shoes Model 45,Bata,Trekking Shoes,2265,Designed for stability and grip,https://via.placeholder.com/150
+46,Woodland Hiking Boots Model 46,Woodland,Hiking Boots,2282,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
+47,Campus Loafers Model 47,Campus,Loafers,2299,Comfortable everyday slip-ons,https://via.placeholder.com/150
+48,Red Tape Formal Shoes Model 48,Red Tape,Formal Shoes,2316,Elegant and stylish for office wear,https://via.placeholder.com/150
+49,Sparx Running Shoes Model 49,Sparx,Running Shoes,2333,Lightweight and durable for everyday use,https://via.placeholder.com/150
+50,Nike Sneakers Model 50,Nike,Sneakers,2350,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+51,Adidas Casual Shoes Model 51,Adidas,Casual Shoes,2367,Sporty look and comfortable fit,https://via.placeholder.com/150
+52,Puma Trekking Shoes Model 52,Puma,Trekking Shoes,2384,Designed for stability and grip,https://via.placeholder.com/150
+53,Reebok Hiking Boots Model 53,Reebok,Hiking Boots,2401,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
+54,Skechers Loafers Model 54,Skechers,Loafers,2418,Comfortable everyday slip-ons,https://via.placeholder.com/150
+55,Bata Formal Shoes Model 55,Bata,Formal Shoes,2435,Elegant and stylish for office wear,https://via.placeholder.com/150
+56,Woodland Running Shoes Model 56,Woodland,Running Shoes,2452,Lightweight and durable for everyday use,https://via.placeholder.com/150
+57,Campus Sneakers Model 57,Campus,Sneakers,2469,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+58,Red Tape Casual Shoes Model 58,Red Tape,Casual Shoes,2486,Sporty look and comfortable fit,https://via.placeholder.com/150
+59,Sparx Trekking Shoes Model 59,Sparx,Trekking Shoes,2503,Designed for stability and grip,https://via.placeholder.com/150
+60,Nike Hiking Boots Model 60,Nike,Hiking Boots,2520,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
+61,Adidas Loafers Model 61,Adidas,Loafers,2537,Comfortable everyday slip-ons,https://via.placeholder.com/150
+62,Puma Formal Shoes Model 62,Puma,Formal Shoes,2554,Elegant and stylish for office wear,https://via.placeholder.com/150
+63,Reebok Running Shoes Model 63,Reebok,Running Shoes,2571,Lightweight and durable for everyday use,https://via.placeholder.com/150
+64,Skechers Sneakers Model 64,Skechers,Sneakers,2588,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+65,Bata Casual Shoes Model 65,Bata,Casual Shoes,2605,Sporty look and comfortable fit,https://via.placeholder.com/150
+66,Woodland Trekking Shoes Model 66,Woodland,Trekking Shoes,2622,Designed for stability and grip,https://via.placeholder.com/150
+67,Campus Hiking Boots Model 67,Campus,Hiking Boots,2639,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
+68,Red Tape Loafers Model 68,Red Tape,Loafers,2656,Comfortable everyday slip-ons,https://via.placeholder.com/150
+69,Sparx Formal Shoes Model 69,Sparx,Formal Shoes,2673,Elegant and stylish for office wear,https://via.placeholder.com/150
+70,Nike Running Shoes Model 70,Nike,Running Shoes,2690,Lightweight and durable for everyday use,https://via.placeholder.com/150
+71,Adidas Sneakers Model 71,Adidas,Sneakers,2707,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+72,Puma Casual Shoes Model 72,Puma,Casual Shoes,2724,Sporty look and comfortable fit,https://via.placeholder.com/150
+73,Reebok Trekking Shoes Model 73,Reebok,Trekking Shoes,2741,Designed for stability and grip,https://via.placeholder.com/150
+74,Skechers Hiking Boots Model 74,Skechers,Hiking Boots,2758,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
+75,Bata Loafers Model 75,Bata,Loafers,2775,Comfortable everyday slip-ons,https://via.placeholder.com/150
+76,Woodland Formal Shoes Model 76,Woodland,Formal Shoes,2792,Elegant and stylish for office wear,https://via.placeholder.com/150
+77,Campus Running Shoes Model 77,Campus,Running Shoes,2809,Lightweight and durable for everyday use,https://via.placeholder.com/150
+78,Red Tape Sneakers Model 78,Red Tape,Sneakers,2826,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+79,Sparx Casual Shoes Model 79,Sparx,Casual Shoes,2843,Sporty look and comfortable fit,https://via.placeholder.com/150
+80,Nike Trekking Shoes Model 80,Nike,Trekking Shoes,2860,Designed for stability and grip,https://via.placeholder.com/150
+81,Adidas Hiking Boots Model 81,Adidas,Hiking Boots,2877,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
+82,Puma Loafers Model 82,Puma,Loafers,2894,Comfortable everyday slip-ons,https://via.placeholder.com/150
+83,Reebok Formal Shoes Model 83,Reebok,Formal Shoes,2911,Elegant and stylish for office wear,https://via.placeholder.com/150
+84,Skechers Running Shoes Model 84,Skechers,Running Shoes,2928,Lightweight and durable for everyday use,https://via.placeholder.com/150
+85,Bata Sneakers Model 85,Bata,Sneakers,2945,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+86,Woodland Casual Shoes Model 86,Woodland,Casual Shoes,2962,Sporty look and comfortable fit,https://via.placeholder.com/150
+87,Campus Trekking Shoes Model 87,Campus,Trekking Shoes,2979,Designed for stability and grip,https://via.placeholder.com/150
+88,Red Tape Hiking Boots Model 88,Red Tape,Hiking Boots,2996,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
+89,Sparx Loafers Model 89,Sparx,Loafers,3013,Comfortable everyday slip-ons,https://via.placeholder.com/150
+90,Nike Formal Shoes Model 90,Nike,Formal Shoes,3030,Elegant and stylish for office wear,https://via.placeholder.com/150
+91,Adidas Running Shoes Model 91,Adidas,Running Shoes,3047,Lightweight and durable for everyday use,https://via.placeholder.com/150
+92,Puma Sneakers Model 92,Puma,Sneakers,3064,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+93,Reebok Casual Shoes Model 93,Reebok,Casual Shoes,3081,Sporty look and comfortable fit,https://via.placeholder.com/150
+94,Skechers Trekking Shoes Model 94,Skechers,Trekking Shoes,3098,Designed for stability and grip,https://via.placeholder.com/150
+95,Bata Hiking Boots Model 95,Bata,Hiking Boots,3115,Rugged outdoor boots with leather finish,https://via.placeholder.com/150
+96,Woodland Loafers Model 96,Woodland,Loafers,3132,Comfortable everyday slip-ons,https://via.placeholder.com/150
+97,Campus Formal Shoes Model 97,Campus,Formal Shoes,3149,Elegant and stylish for office wear,https://via.placeholder.com/150
+98,Red Tape Running Shoes Model 98,Red Tape,Running Shoes,3166,Lightweight and durable for everyday use,https://via.placeholder.com/150
+99,Sparx Sneakers Model 99,Sparx,Sneakers,3183,Breathable mesh with soft cushioning,https://via.placeholder.com/150
+100,Nike Casual Shoes Model 100,Nike,Casual Shoes,3200,Sporty look and comfortable fit,https://via.placeholder.com/150

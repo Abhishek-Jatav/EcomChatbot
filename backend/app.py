@@ -3,7 +3,10 @@ from flask_cors import CORS
 from db import get_db_connection
 
 app = Flask(__name__)
-CORS(app, origin=["http://localhost:300"])
+
+# Enable CORS for the frontend domain
+# CORS(app, origin=["localhost"])
+CORS(app, origins=["https://ecom-chatbot-frontend.netlify.app"])  # Note: `origins` (not `origin`)
 
 @app.route('/')
 def home():
@@ -29,7 +32,9 @@ def get_products():
             'brand': row[5],
             'description': row[6],
         })
+
     return jsonify(products)
+
 @app.route('/api/search', methods=['GET'])
 def search_products():
     query = request.args.get('q', '')
@@ -46,6 +51,9 @@ def search_products():
     """, (f'%{query.lower()}%', f'%{query.lower()}%', f'%{query.lower()}%'))
 
     rows = cur.fetchall()
+    cur.close()
+    conn.close()
+
     products = [{
         "id": row[0],
         "name": row[1],
@@ -57,7 +65,6 @@ def search_products():
     } for row in rows]
 
     return jsonify(products)
-
 
 if __name__ == '__main__':
     app.run(debug=True)
