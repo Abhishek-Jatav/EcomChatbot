@@ -1,0 +1,16 @@
+# .gitignore
+
+# Node (Next.js frontend)
+node_modules/
+.next/
+.env
+
+# Python (Flask backend)
+__pycache__/
+*.pyc
+venv/
+.env
+
+# General
+.DS_Store
+*.log
